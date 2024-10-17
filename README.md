@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vishwjit3303
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning computer Engineering
-- 💞️ I’m looking to collaborate on software Developing
 - 📫 How to reach me ...through by vishwjitpawar340@gmail.com
 
 <!---
