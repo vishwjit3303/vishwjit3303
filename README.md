@@ -8,9 +8,9 @@ As CSE student, I have been honing my skills in various programming languages an
 ### Skills and Achievements <br>
 Here are some of the technologies and tools I work with, as well as my achievements: <br>
 
-Languages: C, C++, Java, Html, css, android.
-Frameworks: Android SDK, Bootstrap
-Tools: Git, Firebase
+- Languages: C, C++, Java, Html, css, android.
+- Frameworks: Android SDK, Bootstrap
+- Tools: Git, Firebase
 
 
 ### Get in Touch
